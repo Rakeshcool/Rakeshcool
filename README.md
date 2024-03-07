@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rakeshdascloud315@gmail.com**
 
-- ⚡ Fun fact **I am an omnivert**
+- ⚡ Fun fact **I am an omnivert :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
