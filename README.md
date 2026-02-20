@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **AWS,Docker,Kubernetes,Ansible,CI/CD,terraform,jenkins**
 
-- 📫 How to reach me **rakeshdascloud315@gmail.com**
+- 📫 How to reach me **rakeshcool315@gmail.com**
 
 - ⚡ Fun fact **I am an omnivert :)**
 
